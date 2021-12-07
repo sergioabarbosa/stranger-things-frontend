@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-// start project frontend
+// start project frontend now
 
 ReactDOM.render(
   <React.StrictMode>
